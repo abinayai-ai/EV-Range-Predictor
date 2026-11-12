@@ -121,6 +121,10 @@ B.Tech – Artificial Intelligence and Data Science
 
 GitHub: [abinayai-ai](https://github.com/abinayai-ai)
 
+## 🚀 Live Demo
+
+[Click here to try EV Range Predictor](https://abinayai-ai-ev-range-predictor-app-cjxx1k.streamlit.app/)
+
 LinkedIn: [Abinaya J](https://www.linkedin.com/in/abinaya-j-56155a327/)
 
 ---
